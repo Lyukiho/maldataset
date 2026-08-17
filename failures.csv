@@ -1,0 +1,3 @@
+﻿source,source_path,sha256,reason
+dike_batch3,E:\StudyFiles\malware\batch3\1302667485bd8b4dfcb5cc273cd05da1ca61927b5e923a5acbc2aaa1829ecfa1.exe,1302667485bd8b4dfcb5cc273cd05da1ca61927b5e923a5acbc2aaa1829ecfa1,PEFormatError: 'Invalid NT Headers signature. Probably a NE file'
+dike_batch7,E:\StudyFiles\malware\batch7\3846f2ce94d43e9ef6c08cd0abfb5c6c6c993b00d8690bbea40cc525b44cc0a3.exe,3846f2ce94d43e9ef6c08cd0abfb5c6c6c993b00d8690bbea40cc525b44cc0a3,PEFormatError: 'Invalid NT Headers signature.'

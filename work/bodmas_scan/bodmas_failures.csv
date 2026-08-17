@@ -1,0 +1,2 @@
+﻿path,reason
+D:\bodmas_malware_dataset_batches_ida\batch_5\aff106b11b91e77f2f3c9c42729872d4ffc6583417436c867bbaed7b4529d190.exe,"TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
