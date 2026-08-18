@@ -1,0 +1,4 @@
+scikit-learn==1.8.0
+joblib==1.5.3
+pandas==2.3.3
+pefile==2024.8.26
